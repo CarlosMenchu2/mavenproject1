@@ -1,0 +1,5 @@
+com\mycompany\mavenproject1\DropwizardApplication.class
+com\mycompany\mavenproject1\service\BookService.class
+com\mycompany\mavenproject1\controller\BookController.class
+com\mycompany\mavenproject1\HelloWorldConfiguration.class
+com\mycompany\mavenproject1\model\Book.class
